@@ -1,0 +1,5 @@
+.venv/
+Database/Er_Entries.sqlite
+**/__pycache__/
+asset/
+
