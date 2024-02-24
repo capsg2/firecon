@@ -1,5 +1,8 @@
 .venv/
 Database/Er_Entries.sqlite
+firebase_sync.py
 **/__pycache__/
 asset/
+.gitignore
+
 
