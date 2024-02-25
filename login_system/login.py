@@ -1,4 +1,4 @@
-from PyQt6.QtWidgets import QApplication, QWidget, QMessageBox
+from PyQt6.QtWidgets import QWidget, QMessageBox
 from admin.adminDashboard import AdminDashboard
 from User.main_interface import MainInterface
 from Database.connect import DBConnection
@@ -6,7 +6,6 @@ from admin.logs_handler import LogsHandler
 from Database.firebase_sync import cloud_sync
 from PyQt6.QtCore import Qt
 from PyQt6 import uic
-import sqlite3
 import hashlib
 import os
 
